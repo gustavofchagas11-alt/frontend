@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Layout com Tabela</title>
+</head>
+<body>
+
+    <table border="1" width="100%">
+        <tr>
+            <td colspan="2">
+                <h1>Academia Fitness</h1>
+                <p>Saúde e qualidade de vida.</p>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="25%">
+                <h2>Menu</h2>
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                    <li><a href="#">Treinos</a></li>
+                </ul>
+            </td>
+
+            <td>
+                <h2>Conteúdo Principal</h2>
+
+                <h3>Sobre a Academia</h3>
+                <p>
+                    Página criada utilizando table-based layout
+                    para demonstrar uma estrutura antiga de desenvolvimento.
+                </p>
+
+                <h3>Serviços</h3>
+                <p>
+                    Musculação, aulas e acompanhamento profissional.
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <p>Autor: Seu Nome | Contato: seuemail@email.com</p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
