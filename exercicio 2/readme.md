@@ -18,3 +18,7 @@ Usando HTML semântico
 <footer>
   Rodapé
 </footer>
+
+git add .
+git commit -m "Adiciona exercício 2 sobre div e HTML semântico"
+git push
